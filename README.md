@@ -10,6 +10,7 @@ Please add free best resources to learn and contribute to beginners in the open 
 - [Learn Web Development from Top Articles of 2017](https://github.com/Mybridge/learn-web-development)
 - [Codeburst's Ultimate Guide For Full Stack Web Development](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
 - [The Front-End Checklist](https://frontendchecklist.io/)
+- [Learn the MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
 
 ### Machine Learning
 Please add link of best resources to learn and contributing repositories here for Machine Learning.
